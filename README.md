@@ -6,4 +6,5 @@ in that statement i make this simple app that decides for one what to do with yo
 Barba App es un proyecto personal que nació con la idea de que siempre estaba pensando en qué hacer con mi barba, este mes la dejo crecer o tal vez deba afeitarme.
 Con esa declaración hago esta sencilla aplicación que decide por uno qué hacer con su barba.
 
+#How to run
 To run just execute the file Barbaapp.py
